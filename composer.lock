@@ -47,12 +47,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/colymba/GridFieldBulkEditingTools.git",
-                "reference": "7c5881c7a4f54ca3b4e51499323d340abf84193e"
+                "reference": "5d1c30d1c0767ba6a24591e75f6c1905cf90bd9b"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/colymba/GridFieldBulkEditingTools/zipball/7c5881c7a4f54ca3b4e51499323d340abf84193e",
-                "reference": "7c5881c7a4f54ca3b4e51499323d340abf84193e",
+                "url": "https://api.github.com/repos/colymba/GridFieldBulkEditingTools/zipball/5d1c30d1c0767ba6a24591e75f6c1905cf90bd9b",
+                "reference": "5d1c30d1c0767ba6a24591e75f6c1905cf90bd9b",
                 "shasum": ""
             },
             "require": {
@@ -81,7 +81,7 @@
                 "gridfield bulk upload",
                 "silverstripe"
             ],
-            "time": "2018-04-20T03:25:11+00:00"
+            "time": "2018-09-07T10:31:13+00:00"
         },
         {
             "name": "composer/installers",
@@ -89,12 +89,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/composer/installers.git",
-                "reference": "cfcca6b1b60bc4974324efb5783c13dca6932b5b"
+                "reference": "b20f7b252cd6765ee68e66f8b3093a230ad97608"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/composer/installers/zipball/cfcca6b1b60bc4974324efb5783c13dca6932b5b",
-                "reference": "cfcca6b1b60bc4974324efb5783c13dca6932b5b",
+                "url": "https://api.github.com/repos/composer/installers/zipball/b20f7b252cd6765ee68e66f8b3093a230ad97608",
+                "reference": "b20f7b252cd6765ee68e66f8b3093a230ad97608",
                 "shasum": ""
             },
             "require": {
@@ -150,6 +150,7 @@
                 "RadPHP",
                 "SMF",
                 "Thelia",
+                "Whmcs",
                 "WolfCMS",
                 "agl",
                 "aimeos",
@@ -201,7 +202,7 @@
                 "zend",
                 "zikula"
             ],
-            "time": "2018-08-27T06:10:37+00:00"
+            "time": "2018-10-10T11:17:18+00:00"
         },
         {
             "name": "embed/embed",
@@ -317,12 +318,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/guzzle/guzzle.git",
-                "reference": "5c7a5c524e556113e7f8685e6880cbc4090c798d"
+                "reference": "2798c457a4fc5a9bda4587ea0da9b177e22aff5a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/5c7a5c524e556113e7f8685e6880cbc4090c798d",
-                "reference": "5c7a5c524e556113e7f8685e6880cbc4090c798d",
+                "url": "https://api.github.com/repos/guzzle/guzzle/zipball/2798c457a4fc5a9bda4587ea0da9b177e22aff5a",
+                "reference": "2798c457a4fc5a9bda4587ea0da9b177e22aff5a",
                 "shasum": ""
             },
             "require": {
@@ -374,7 +375,7 @@
                 "rest",
                 "web service"
             ],
-            "time": "2018-08-08T04:37:00+00:00"
+            "time": "2018-10-08T11:42:37+00:00"
         },
         {
             "name": "guzzlehttp/promises",
@@ -807,12 +808,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Masterminds/html5-php.git",
-                "reference": "441fb2bc82599e4e3e90ee94d0f084649f4952f2"
+                "reference": "c7c7657e3c2ef21053164992038015089ed7bf7e"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Masterminds/html5-php/zipball/441fb2bc82599e4e3e90ee94d0f084649f4952f2",
-                "reference": "441fb2bc82599e4e3e90ee94d0f084649f4952f2",
+                "url": "https://api.github.com/repos/Masterminds/html5-php/zipball/c7c7657e3c2ef21053164992038015089ed7bf7e",
+                "reference": "c7c7657e3c2ef21053164992038015089ed7bf7e",
                 "shasum": ""
             },
             "require": {
@@ -864,7 +865,7 @@
                 "serializer",
                 "xml"
             ],
-            "time": "2017-09-04T12:36:31+00:00"
+            "time": "2018-10-08T17:37:37+00:00"
         },
         {
             "name": "md/ac-json-events",
@@ -872,12 +873,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events.git",
-                "reference": "d345f5f00d489eaf09f3d947de3c687ce0294052"
+                "reference": "05d56d677343c27ebb997ce63e107e16b6acc746"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/d345f5f00d489eaf09f3d947de3c687ce0294052",
-                "reference": "d345f5f00d489eaf09f3d947de3c687ce0294052",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/ac-json-events/zipball/05d56d677343c27ebb997ce63e107e16b6acc746",
+                "reference": "05d56d677343c27ebb997ce63e107e16b6acc746",
                 "shasum": ""
             },
             "require": {
@@ -896,7 +897,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/tree/master",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/ac-json-events/issues"
             },
-            "time": "2018-09-04T16:52:24+00:00"
+            "time": "2018-09-10T21:07:49+00:00"
         },
         {
             "name": "md/blog",
@@ -986,12 +987,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/StudentLifeMarketingAndDesign/division-project.git",
-                "reference": "266477654e1ad530e43b57a217eea03c0bdb3553"
+                "reference": "df0ac34ef36d1600348df3d103ed6832a78b79f3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/266477654e1ad530e43b57a217eea03c0bdb3553",
-                "reference": "266477654e1ad530e43b57a217eea03c0bdb3553",
+                "url": "https://api.github.com/repos/StudentLifeMarketingAndDesign/division-project/zipball/df0ac34ef36d1600348df3d103ed6832a78b79f3",
+                "reference": "df0ac34ef36d1600348df3d103ed6832a78b79f3",
                 "shasum": ""
             },
             "require": {
@@ -1045,7 +1046,7 @@
                 "source": "https://github.com/StudentLifeMarketingAndDesign/division-project/tree/2.0.x",
                 "issues": "https://github.com/StudentLifeMarketingAndDesign/division-project/issues"
             },
-            "time": "2018-09-04T19:04:27+00:00"
+            "time": "2018-10-16T20:02:17+00:00"
         },
         {
             "name": "md/rss-display",
@@ -1461,17 +1462,17 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/PlatoCreative/silverstripe-typekit.git",
-                "reference": "ea65907304a807cf24e08748955c661044dbc4b1"
+                "reference": "4869cebfe01715bc414ea17b3a2f0302e14ecf9f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/PlatoCreative/silverstripe-typekit/zipball/ea65907304a807cf24e08748955c661044dbc4b1",
-                "reference": "ea65907304a807cf24e08748955c661044dbc4b1",
+                "url": "https://api.github.com/repos/PlatoCreative/silverstripe-typekit/zipball/4869cebfe01715bc414ea17b3a2f0302e14ecf9f",
+                "reference": "4869cebfe01715bc414ea17b3a2f0302e14ecf9f",
                 "shasum": ""
             },
             "require": {
-                "silverstripe/cms": "^3.5",
-                "silverstripe/framework": "^3.5"
+                "silverstripe/cms": "3.*",
+                "silverstripe/framework": "3.*"
             },
             "type": "silverstripe-module",
             "autoload": {
@@ -1500,7 +1501,7 @@
                 "typekit",
                 "typography"
             ],
-            "time": "2017-12-15T00:16:26+00:00"
+            "time": "2018-09-21T03:25:41+00:00"
         },
         {
             "name": "psr/http-message",
